@@ -330,3 +330,14 @@ README.md:104 MD040/fenced-code-language Fenced code blocks should have a langua
 Markdown validation failed. Fix the issues before committing.
 
 2025-03-18 10:34:48,900 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:34:54,518 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:34:53"
+2025-03-18 10:34:54,518 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:34:54,518 - auto_commit - ERROR - Failed to commit changes

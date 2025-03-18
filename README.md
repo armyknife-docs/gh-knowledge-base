@@ -6,7 +6,8 @@
 
 - **GitHub-backed Storage**: Every change is automatically committed to Git
 - **Automated Versioning**: File changes are automatically versioned
-- **MkDocs Integration**: Beautiful documentation using MkDocs{% if cookiecutter.use_material_theme == "yes" %} with Material theme{% endif %}
+- **MkDocs Integration**: Beautiful documentation using MkDocs{% if cookiecutter.use_material_theme == "yes" %} with Mat
+erial theme{% endif %}
 - **Markdown Linting**: Ensures consistent documentation style
 - **Document Generation**: Scripts for easy content creation
 - **GitHub Actions**: Automated deployment and linting workflows
@@ -35,25 +36,25 @@ pip install cookiecutter
 cookiecutter gh:{{ cookiecutter.github_username }}/{{ cookiecutter.github_repo_name }}
 ```
 
-2. Navigate to the created project:
+1. Navigate to the created project:
 
 ```bash
 cd {{ cookiecutter.project_slug }}
 ```
 
-3. Install the requirements:
+1. Install the requirements:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Set up Git hooks:
+1. Set up Git hooks:
 
 ```bash
 python scripts/setup_hooks.py
 ```
 
-5. Start the development server:
+1. Start the development server:
 
 ```bash
 mkdocs serve
@@ -101,7 +102,7 @@ Or just push to the main branch, and GitHub Actions will handle the deployment.
 
 ## Directory Structure
 
-```
+```bashbash
 {{ cookiecutter.project_slug }}/
 ├── .github/workflows/       # GitHub Actions workflows
 ├── docs/                    # Documentation content
