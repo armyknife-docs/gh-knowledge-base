@@ -1,10 +1,9 @@
-site_name: {{ cookiecutter.project_name }}
-site_description: {{ cookiecutter.project_description }}
-site_author: {{ cookiecutter.author_name }}
-repo_url: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.github_repo_name }}
+site_name: GitHub Knowledge Base
+site_description: A knowledge base with automatic GitHub versioning
+site_author: James Knott
+repo_url: https://github.com/armyknife-docs/gh-knowledge-base
 edit_uri: edit/main/docs/
 
-{% if cookiecutter.use_material_theme == "yes" %}
 theme:
   name: material
   palette:
@@ -19,10 +18,6 @@ theme:
     - content.code.copy
   icon:
     repo: fontawesome/brands/github
-{% else %}
-theme:
-  name: readthedocs
-{% endif %}
 
 markdown_extensions:
   - admonition
@@ -42,16 +37,13 @@ markdown_extensions:
   - md_in_html
   - meta
 
-{% if cookiecutter.include_search == "yes" %}
 plugins:
   - search:
       lang: en
       prebuild_index: true
       separator: '[\s\-\.]+'
-  {% if cookiecutter.include_git_revision_date == "yes" %}
   - git-revision-date-localized:
       type: date
-  {% endif %}
   - social:
       cards_color:
         fill: "#7e56c2"
@@ -63,7 +55,6 @@ plugins:
   - mkdocs-simple-hooks:
       hooks:
         on_page_markdown: "hooks:on_page_markdown"
-{% endif %}
 
 nav:
   - Home: index.md
@@ -71,6 +62,4 @@ nav:
   - User Guide:
     - Overview: user-guide/index.md
     - Creating Content: user-guide/creating-content.md
-  - API Reference: api-reference.md
   - Contributing: contributing.md
-  - Changelog: changelog.md
