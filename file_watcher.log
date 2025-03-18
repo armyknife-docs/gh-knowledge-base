@@ -1,0 +1,116 @@
+2025-03-18 10:18:45,681 - file_watcher - INFO - Starting file watcher for /Users/armyknife/Projects/gh-knowledge-base/docs
+2025-03-18 10:27:06,385 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/index.md (deleted)
+2025-03-18 10:27:11,403 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:27:11,403 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:27:12,032 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:28:46,702 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/test/4913 (created)
+2025-03-18 10:28:51,729 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:28:51,729 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:28:52,676 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:28:52,676 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/test/4913 (modified)
+2025-03-18 10:28:57,702 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:28:57,702 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:28:58,459 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:28:58,459 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/test/4913 (deleted)
+2025-03-18 10:29:03,482 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:29:03,483 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:29:04,198 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:29:04,198 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/test/test-document.md (moved)
+2025-03-18 10:29:09,222 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:29:09,223 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:29:09,867 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:29:09,867 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/test/test-document.md~ (deleted)
+2025-03-18 10:29:14,892 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:29:14,893 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:29:15,476 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:29:15,476 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/test/test-document.md (created)
+2025-03-18 10:29:20,501 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:29:20,502 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:29:21,090 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:29:21,090 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/test/test-document.md (modified)
+2025-03-18 10:29:26,111 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:29:26,112 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:29:26,715 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:29:40,197 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/user-guide/4913 (created)
+2025-03-18 10:29:45,221 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:29:45,222 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:29:46,196 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:29:46,197 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/user-guide/4913 (modified)
+2025-03-18 10:29:51,222 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:29:51,223 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:29:51,969 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:29:51,969 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/user-guide/4913 (deleted)
+2025-03-18 10:29:56,992 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:29:56,992 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:29:57,606 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:29:57,606 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/user-guide/index.md (moved)
+2025-03-18 10:30:02,632 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:30:02,632 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:30:03,241 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:30:03,241 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/user-guide/index.md~ (deleted)
+2025-03-18 10:30:08,265 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:30:08,266 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:30:08,864 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:30:08,864 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/user-guide/index.md (created)
+2025-03-18 10:30:13,889 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:30:13,889 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:30:14,497 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:30:14,497 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/user-guide/index.md (modified)
+2025-03-18 10:30:19,519 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:30:19,520 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:30:20,184 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:33:36,043 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/4913 (created)
+2025-03-18 10:33:41,062 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:33:41,062 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:33:41,667 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:33:41,667 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/4913 (modified)
+2025-03-18 10:33:46,687 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:33:46,688 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:33:47,248 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:33:47,248 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/4913 (deleted)
+2025-03-18 10:33:52,273 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:33:52,274 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:33:52,910 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:33:52,910 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/index.md (moved)
+2025-03-18 10:33:57,931 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:33:57,932 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:33:58,509 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:33:58,509 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/index.md~ (deleted)
+2025-03-18 10:34:03,530 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:34:03,530 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:34:04,113 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:34:04,114 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/index.md (created)
+2025-03-18 10:34:09,134 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:34:09,135 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:34:09,697 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:34:09,697 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/index.md (modified)
+2025-03-18 10:34:14,722 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:34:14,723 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:34:15,313 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:34:15,313 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/4913 (created)
+2025-03-18 10:34:20,336 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:34:20,337 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:34:20,914 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:34:20,915 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/4913 (modified)
+2025-03-18 10:34:25,938 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:34:25,938 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:34:26,543 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:34:26,544 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/4913 (deleted)
+2025-03-18 10:34:31,563 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:34:31,563 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:34:32,130 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:34:32,130 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/index.md (moved)
+2025-03-18 10:34:37,153 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:34:37,153 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:34:37,729 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:34:37,729 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/index.md~ (deleted)
+2025-03-18 10:34:42,752 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:34:42,753 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:34:43,314 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:34:43,314 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/index.md (created)
+2025-03-18 10:34:48,331 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:34:48,331 - file_watcher - INFO - Triggering auto commit
+2025-03-18 10:34:48,903 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 10:34:48,903 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/index.md (modified)
+2025-03-18 10:34:53,923 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 10:34:53,923 - file_watcher - INFO - Triggering auto commit

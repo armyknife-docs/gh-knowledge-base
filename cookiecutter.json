@@ -1,0 +1,13 @@
+{
+    "project_name": "My Knowledge Base",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "project_description": "A knowledge base with automatic GitHub versioning",
+    "author_name": "Your Name",
+    "author_email": "your.email@example.com",
+    "github_username": "yourusername",
+    "github_repo_name": "{{ cookiecutter.project_slug }}",
+    "use_material_theme": ["yes", "no"],
+    "include_search": ["yes", "no"],
+    "include_git_revision_date": ["yes", "no"],
+    "open_source_license": ["MIT", "BSD-3", "GNU GPL v3.0", "Apache Software License 2.0", "None"]
+}

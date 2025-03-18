@@ -1,0 +1,76 @@
+site_name: {{ cookiecutter.project_name }}
+site_description: {{ cookiecutter.project_description }}
+site_author: {{ cookiecutter.author_name }}
+repo_url: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.github_repo_name }}
+edit_uri: edit/main/docs/
+
+{% if cookiecutter.use_material_theme == "yes" %}
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+{% else %}
+theme:
+  name: readthedocs
+{% endif %}
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - meta
+
+{% if cookiecutter.include_search == "yes" %}
+plugins:
+  - search:
+      lang: en
+      prebuild_index: true
+      separator: '[\s\-\.]+'
+  {% if cookiecutter.include_git_revision_date == "yes" %}
+  - git-revision-date-localized:
+      type: date
+  {% endif %}
+  - social:
+      cards_color:
+        fill: "#7e56c2"
+        text: "#FFFFFF"
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+  - mkdocs-simple-hooks:
+      hooks:
+        on_page_markdown: "hooks:on_page_markdown"
+{% endif %}
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - User Guide:
+    - Overview: user-guide/index.md
+    - Creating Content: user-guide/creating-content.md
+  - API Reference: api-reference.md
+  - Contributing: contributing.md
+  - Changelog: changelog.md

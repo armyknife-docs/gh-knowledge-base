@@ -1,0 +1,332 @@
+2025-03-18 10:27:12,029 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:27:11"
+2025-03-18 10:27:12,030 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+docs/test/test-document.md:10 MD025/single-title/single-h1 Multiple top-level headings in the same document [Context: "Test Document"]
+docs/user-guide/index.md:3:121 MD013/line-length Line length [Expected: 120; Actual: 131]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:27:12,030 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:28:52,673 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:28:51"
+2025-03-18 10:28:52,673 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+docs/user-guide/index.md:3:121 MD013/line-length Line length [Expected: 120; Actual: 131]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:28:52,673 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:28:58,456 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:28:57"
+2025-03-18 10:28:58,456 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+docs/user-guide/index.md:3:121 MD013/line-length Line length [Expected: 120; Actual: 131]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:28:58,456 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:29:04,194 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:29:03"
+2025-03-18 10:29:04,195 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+docs/user-guide/index.md:3:121 MD013/line-length Line length [Expected: 120; Actual: 131]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:29:04,195 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:29:09,864 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:29:09"
+2025-03-18 10:29:09,864 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+docs/user-guide/index.md:3:121 MD013/line-length Line length [Expected: 120; Actual: 131]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:29:09,864 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:29:15,472 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:29:14"
+2025-03-18 10:29:15,472 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+docs/user-guide/index.md:3:121 MD013/line-length Line length [Expected: 120; Actual: 131]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:29:15,472 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:29:21,086 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:29:20"
+2025-03-18 10:29:21,087 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+docs/user-guide/index.md:3:121 MD013/line-length Line length [Expected: 120; Actual: 131]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:29:21,087 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:29:26,712 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:29:26"
+2025-03-18 10:29:26,712 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+docs/user-guide/index.md:3:121 MD013/line-length Line length [Expected: 120; Actual: 131]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:29:26,713 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:29:46,193 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:29:45"
+2025-03-18 10:29:46,193 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:29:46,193 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:29:51,965 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:29:51"
+2025-03-18 10:29:51,966 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:29:51,966 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:29:57,603 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:29:57"
+2025-03-18 10:29:57,603 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:29:57,603 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:30:03,238 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:30:02"
+2025-03-18 10:30:03,238 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:30:03,238 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:30:08,861 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:30:08"
+2025-03-18 10:30:08,861 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:30:08,861 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:30:14,494 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:30:13"
+2025-03-18 10:30:14,494 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:30:14,494 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:30:20,181 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:30:19"
+2025-03-18 10:30:20,181 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+docs/index.md:7:121 MD013/line-length Line length [Expected: 120; Actual: 165]
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:37:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:43:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:49:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:55:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:103 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:30:20,182 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:33:41,663 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:33:41"
+2025-03-18 10:33:41,664 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:33:41,664 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:33:47,245 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:33:46"
+2025-03-18 10:33:47,245 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:33:47,245 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:33:52,906 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:33:52"
+2025-03-18 10:33:52,907 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:33:52,907 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:33:58,506 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:33:57"
+2025-03-18 10:33:58,506 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:33:58,506 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:34:04,110 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:34:03"
+2025-03-18 10:34:04,110 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:34:04,110 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:34:09,694 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:34:09"
+2025-03-18 10:34:09,694 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:34:09,694 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:34:15,310 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:34:14"
+2025-03-18 10:34:15,310 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:34:15,310 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:34:20,911 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:34:20"
+2025-03-18 10:34:20,911 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:34:20,912 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:34:26,540 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:34:25"
+2025-03-18 10:34:26,541 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:34:26,541 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:34:32,127 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:34:31"
+2025-03-18 10:34:32,127 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:34:32,127 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:34:37,726 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:34:37"
+2025-03-18 10:34:37,726 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:34:37,726 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:34:43,311 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:34:42"
+2025-03-18 10:34:43,311 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:34:43,311 - auto_commit - ERROR - Failed to commit changes
+2025-03-18 10:34:48,900 - auto_commit - ERROR - Command failed: git commit -m "Auto-commit: Update documentation at 2025-03-18 10:34:48"
+2025-03-18 10:34:48,900 - auto_commit - ERROR - Error: Running markdown lint on staged files...
+README.md:9:121 MD013/line-length Line length [Expected: 120; Actual: 142]
+README.md:38:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 2; Style: 1/2/3]
+README.md:44:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 3; Style: 1/2/3]
+README.md:50:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 4; Style: 1/2/3]
+README.md:56:1 MD029/ol-prefix Ordered list item prefix [Expected: 1; Actual: 5; Style: 1/2/3]
+README.md:104 MD040/fenced-code-language Fenced code blocks should have a language specified [Context: "```"]
+Markdown validation failed. Fix the issues before committing.
+
+2025-03-18 10:34:48,900 - auto_commit - ERROR - Failed to commit changes
