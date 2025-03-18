@@ -118,3 +118,7 @@
 2025-03-18 11:06:59,687 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/getting-started.md (created)
 2025-03-18 11:07:04,703 - file_watcher - INFO - Changes settled after 5 seconds
 2025-03-18 11:07:04,703 - file_watcher - INFO - Triggering auto commit
+2025-03-18 11:07:11,198 - file_watcher - INFO - Auto commit completed successfully
+2025-03-18 11:07:11,199 - file_watcher - INFO - Change detected: /Users/armyknife/Projects/gh-knowledge-base/docs/getting-started.md (modified)
+2025-03-18 11:07:16,222 - file_watcher - INFO - Changes settled after 5 seconds
+2025-03-18 11:07:16,223 - file_watcher - INFO - Triggering auto commit
